@@ -1,0 +1,4 @@
+#!/bin/zsh
+
+sort $1 | uniq | sort -R | head -n 5
+

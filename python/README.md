@@ -25,7 +25,7 @@ $ py -3.13 .\weighted_list.py ../example/dinner
 $ py -3.13 .\weighted_list.py ../example/trips
 ```
 
-Although not needed, you can also use uv
+Although not needed, you can also use [uv](https://docs.astral.sh/uv/)
 
 ```shell
 $ uv run .\weighted_list.py ../example/dinner

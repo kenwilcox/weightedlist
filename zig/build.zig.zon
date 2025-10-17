@@ -1,0 +1,10 @@
+// Zig package metadata for Zig 0.15.x
+.{
+    .name = .weightedlist,
+    .version = "0.0.0",
+    .paths = .{
+        "build.zig",
+        "src",
+    },
+    .fingerprint = 0x555a70ef0c0425c0,
+}

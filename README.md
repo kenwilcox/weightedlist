@@ -81,6 +81,6 @@ swift-driver version: 1.127.14.1 Apple Swift version 6.2 (swiftlang-6.2.0.19.9 c
 Target: x86_64-apple-macosx15.0
 
 $ zig version
-0.15.1
+0.15.2
 
 ```
